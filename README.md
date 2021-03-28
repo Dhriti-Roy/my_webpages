@@ -1,2 +1,2 @@
 # My webpages 
-website
+my website
